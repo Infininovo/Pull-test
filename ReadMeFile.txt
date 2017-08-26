@@ -2,4 +2,4 @@ File Edit
 Master 
 Develop
 
- GItBash
+ GItBash Name 
